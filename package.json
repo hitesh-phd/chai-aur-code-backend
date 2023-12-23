@@ -8,5 +8,8 @@
     "dev": "nodemon src/index.js"
   },
   "author": "hitesh patel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.1.1"
+  }
 }
